@@ -14,8 +14,4 @@
          - name: View a file           # Step 3: Two sub-steps involved
            run: |
               echo 'Viewing the file: '   
-<<<<<<< HEAD
               cat requirements.txt 
-=======
-              cat requirements.txt 
->>>>>>> 5f48153a26cf321501696cf8b4e820cf78edf146
